@@ -1,5 +1,4 @@
 # System warnów 
-```````
 
 Za pomocą pluginu możesz dawać ostrzeżenia dla graczy za np. złamanie regulaminu
 
