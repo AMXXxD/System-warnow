@@ -1,11 +1,8 @@
-# System warnów 
-
---------
+## System warnów 
 
 Za pomocą pluginu możesz dawać ostrzeżenia dla graczy za np. złamanie regulaminu
 
 Powody warnów dodajesz w pluginie
-
 ```
 new const szPowody[][] = {
 	"Nie ogarniasz",
@@ -13,5 +10,9 @@ new const szPowody[][] = {
 	"Obraza graczy"
 };
 ```
+------
 
-
+Komendy:
+```
+say /warny
+```
